@@ -10,7 +10,7 @@ function onDeviceReady() {
 }
 
 function toggleFlashLight() {
-    if (device.uuid == "e0101010d38bde8e6740011221af335301010333" || device.uuid == "e0908060g38bde8e6740011221af335301010333") {
+    if (window.navigator.simulator === true) {
         alert("Not Supported in Simulator.");
     }
     else {
