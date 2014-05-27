@@ -7,7 +7,7 @@
     <ProjectName>sample-flashlight</ProjectName>
     <IsRunnable>true</IsRunnable>
     <FrameworkVersion>3.2.0</FrameworkVersion>
-    <AndroidPermissions>android.permission.CAMERA</AndroidPermissions>
+    <AndroidPermissions>android.permission.CAMERA;android.permission.READ_PHONE_STATE</AndroidPermissions>
     <CorePlugins>org.apache.cordova.device;org.apache.cordova.splashscreen</CorePlugins>
     <DeviceOrientations>Portrait;Landscape</DeviceOrientations>
     <iOSStatusBarStyle>Default</iOSStatusBarStyle>
