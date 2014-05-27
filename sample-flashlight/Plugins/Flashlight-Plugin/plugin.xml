@@ -49,4 +49,20 @@
     <source-file src="src/android/nl/xservices/plugins/Flashlight.java" target-dir="src/nl/xservices/plugins"/>
   </platform>
 
+  <platform name="wp8">
+
+    <config-file target="config.xml" parent="/*">
+      <feature name="Flashlight">
+        <param name="wp-package" value="Flashlight" />
+      </feature>
+    </config-file>
+    <config-file target="Properties/WMAppManifest.xml" parent="/Deployment/App/Capabilities">
+      <Capability Name="ID_CAP_ISV_CAMERA" />
+      <Capability Name="ID_CAP_MEDIALIB_PHOTO" />
+      <Capability Name="ID_CAP_MICROPHONE" />
+    </config-file>
+
+    <source-file src="src/wp8/Flashlight.cs" />
+    <framework src="src/wp8/Newtonsoft.Json.dll" custom="true" />
+  </platform>
 </plugin>
