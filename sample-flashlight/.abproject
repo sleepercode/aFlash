@@ -1,40 +1,41 @@
 {
-  "ProjectGuid": "1effd00b-1a57-4db2-b6ed-a880f899e90a",
-  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
-  "AppIdentifier": "com.telerik.sampleflashlight",
-  "ProjectName": "sample-flashlight",
-  "FrameworkVersion": "3.5.0",
-  "AndroidPermissions": [
-    "android.permission.CAMERA",
-    "android.permission.READ_PHONE_STATE"
-  ],
-  "CorePlugins": [
-    "org.apache.cordova.device",
-    "org.apache.cordova.splashscreen"
-  ],
-  "DeviceOrientations": [
-    "Portrait",
-    "Landscape"
-  ],
-  "iOSStatusBarStyle": "Default",
-  "AndroidHardwareAcceleration": "false",
-  "BundleVersion": "1.0",
-  "DisplayName": "",
-  "Author": "",
-  "Description": "sample-flashlight",
-  "iOSDeviceFamily": [
-    "1",
-    "2"
-  ],
-  "AndroidVersionCode": "1",
-  "WP8TileTitle": "",
-  "WP8ProductID": "{1effd00b-1a57-4db2-b6ed-a880f899e90a}",
-  "WP8PublisherID": "{476bfeeb-c983-4d13-81e5-47a347ed1016}",
-  "WP8Publisher": "",
-  "WP8SupportedResolutions": [
-    "ID_RESOLUTION_WVGA",
-    "ID_RESOLUTION_WXGA",
-    "ID_RESOLUTION_HD720P"
-  ],
-  "Framework": "Cordova"
+	"ProjectGuid": "1effd00b-1a57-4db2-b6ed-a880f899e90a",
+	"ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+	"AppIdentifier": "com.telerik.sampleflashlight",
+	"ProjectName": "sample-flashlight",
+	"FrameworkVersion": "3.7.0",
+	"AndroidPermissions": [
+		"android.permission.CAMERA",
+		"android.permission.READ_PHONE_STATE"
+	],
+	"CorePlugins": [
+		"org.apache.cordova.device",
+		"org.apache.cordova.splashscreen"
+	],
+	"DeviceOrientations": [
+		"Portrait",
+		"Landscape"
+	],
+	"iOSStatusBarStyle": "Default",
+	"AndroidHardwareAcceleration": "false",
+	"BundleVersion": "1.0",
+	"DisplayName": "sample-flashlight",
+	"Author": "",
+	"Description": "sample-flashlight",
+	"iOSDeviceFamily": [
+		"1",
+		"2"
+	],
+	"AndroidVersionCode": "1",
+	"WP8TileTitle": "",
+	"WP8ProductID": "{1effd00b-1a57-4db2-b6ed-a880f899e90a}",
+	"WP8PublisherID": "{476bfeeb-c983-4d13-81e5-47a347ed1016}",
+	"WP8Publisher": "",
+	"WP8SupportedResolutions": [
+		"ID_RESOLUTION_WVGA",
+		"ID_RESOLUTION_WXGA",
+		"ID_RESOLUTION_HD720P"
+	],
+	"Framework": "Cordova",
+	"projectVersion": 1
 }
