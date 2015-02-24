@@ -28,8 +28,6 @@
 	],
 	"AndroidVersionCode": "1",
 	"WP8TileTitle": "",
-	"WP8ProductID": "{1effd00b-1a57-4db2-b6ed-a880f899e90a}",
-	"WP8PublisherID": "{476bfeeb-c983-4d13-81e5-47a347ed1016}",
 	"WP8Publisher": "",
 	"WP8SupportedResolutions": [
 		"ID_RESOLUTION_WVGA",
