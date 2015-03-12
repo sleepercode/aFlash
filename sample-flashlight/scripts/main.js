@@ -44,5 +44,5 @@ function onError() {
     
 function showMessage(text) {
     var statusBox = document.getElementById('result');
-    statusBox.innerText = text;
+    statusBox.textContent = text;
 }
