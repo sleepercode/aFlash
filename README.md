@@ -1,10 +1,9 @@
 Flashlight
 =================
-<a href="https://platform.telerik.com/#appbuilder/clone/https%3A%2F%2Fgithub.com%2FIcenium%2Fsample-flashlight" target="_blank"><img src="http://docs.telerik.com/platform/samples/images/try-in-appbuilder.png" alt="Try in AppBuilder" title="Try in AppBuilder" /></a>  <a href="https://github.com/Icenium/sample-flashlight" target="_blank"><img style="padding-left:20px" src="http://docs.telerik.com/platform/samples/images/get-github.png" alt="Get from GitHub" title="Get from GitHub"></a>
+<a href="https://platform.telerik.com/#appbuilder/clone/https%3A%2F%2Fgithub.com%2FIcenium%2Fsample-flashlight" target="_blank"><img src="http://docs.telerik.com/platform/samples/images/try-in-appbuilder.png" alt="Try in AppBuilder" title="Try in AppBuilder" /></a>  
 
 <a id="top"></a>
 * [Overview](#overview)
-* [Showcased APIs](#showcased-apis)
 * [Important Directories and Files](#important-directories-and-files)
 * [Screenshots](#screenshots)
 * [Test the Sample](#test-the-sample)
@@ -15,15 +14,6 @@ This sample shows you how to use the Flashlight custom Apache Cordova plugin. Th
 > *Supported mobile platforms:* iOS, Android, Windows Phone
 >
 > *Developed with:* Apache Cordova 3.7.0, Flashlight 2.0.9
-
-[Back to Top](#top)
-
-# Showcased APIs
-
-This sample includes the [Flashlight API][Flashlight API] as a custom Apache Cordova plugin and uses the following plugin methods.
-
-* **flashlight.available()**: Checks if the device has a camera with a flash.
-* **flashlight.toggle()**: Turns the device flash on or off.
 
 [Back to Top](#top)
 
@@ -157,4 +147,3 @@ With the AppBuilder command-line interface, you can quickly test your apps on de
 [emulators windows]: http://docs.telerik.com/platform/appbuilder/testing-your-app/running-in-emulators/native-emulators#windows
 [emulators vse]: http://docs.telerik.com/platform/appbuilder/testing-your-app/running-in-emulators/native-emulators#visual-studio
 [emulators cli]: http://docs.telerik.com/platform/appbuilder/testing-your-app/running-in-emulators/native-emulators#cli
-[Flashlight API]: https://github.com/Icenium/sample-flashlight/blob/master/sample-flashlight/Plugins/Flashlight-Plugin/README.md

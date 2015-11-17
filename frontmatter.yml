@@ -5,3 +5,4 @@ description: This sample shows you how to use the Flashlight custom Apache Cordo
 tags: Apache Cordova, iOS, Android, Windows Phone, flashlight, torch
 publish: true
 content_filter: true
+apis: cordova.flashlight cordova.flashlight.available cordova.flashlight.toggle
