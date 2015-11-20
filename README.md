@@ -9,6 +9,8 @@ Flashlight
 * [Test the Sample](#test-the-sample)
 * [Limitations](#limitations)
 
+# Overview
+
 This sample shows you how to use the Flashlight custom Apache Cordova plugin. This plugin lets you use the built-in flash of the device camera to turn your device into a torch.
 
 > *Supported mobile platforms:* iOS, Android, Windows Phone
