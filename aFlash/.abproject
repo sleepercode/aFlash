@@ -1,7 +1,7 @@
 {
   "ProjectGuid": "1effd00b-1a57-4db2-b6ed-a880f899e90a",
   "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
-  "AppIdentifier": "com.telerik.sampleflashlight",
+  "AppIdentifier": "com.telerik.aflash",
   "ProjectName": "aFlash",
   "FrameworkVersion": "3.8.0",
   "AndroidPermissions": [
@@ -19,14 +19,14 @@
   "iOSStatusBarStyle": "Default",
   "AndroidHardwareAcceleration": "false",
   "BundleVersion": "1.0",
-  "DisplayName": "Flashlight",
+  "DisplayName": "aFlash",
   "Author": "Amel A.",
-  "WP8Publisher": "",
-  "WP8TileTitle": "",
+  "WP8Publisher": "Ameel",
+  "WP8TileTitle": "aFlash",
   "WP8Capabilities": [],
   "iOSBackgroundMode": [],
   "WP8Requirements": [],
-  "Description": "sample-flashlight",
+  "Description": "Flashlight",
   "iOSDeviceFamily": [
     "1",
     "2"
@@ -41,7 +41,7 @@
   "projectVersion": 1,
   "WP8PublisherID": "{d9f52ed6-9ccb-416f-babc-f8be0e9574f8}",
   "WP8ProductID": "{7fa183a1-bd21-4f01-b661-54a23f6d89e5}",
-  "WP8PackageIdentityName": "1234Telerik.com.telerik.sampleflashlight",
+  "WP8PackageIdentityName": "1234Telerik.com.telerik.aflasht",
   "WP8WindowsPublisherName": "CN=Telerik",
   "WPSdk": "8.1"
 }
