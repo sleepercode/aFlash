@@ -17,16 +17,16 @@ function toggleFlashLight() {
         window.plugins.flashlight.available(function(isAvailable) {
             if (isAvailable) {
                 // toggle on/off
-                if (toggleFLButton.textContent === "Turn ON Flashlight") {
-                    toggleFLButton.textContent = "Turn OFF Flashlight";
+                if (toggleFLButton.textContent === "Turn ON aFlash") {
+                    toggleFLButton.textContent = "Turn OFF aFlash";
                 }
                 else {
-                    toggleFLButton.textContent = "Turn ON Flashlight";
+                    toggleFLButton.textContent = "Turn ON aFlash";
                 } 
                 window.plugins.flashlight.toggle(onSuccess, onError);
             }
             else {
-                alert("Flashlight not available on this device");
+                alert("aFlash not available on this device");
             }
         });
     }
@@ -38,7 +38,7 @@ function onSuccess() {
 }
     
 function onError() {
-    msg = "Something went wrong. Flashlight could not be turned on";
+    msg = "Something went wrong. aFlash could not be turned on";
     showMessage(msg);
 }
     
